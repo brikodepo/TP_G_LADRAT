@@ -12,7 +12,7 @@ Ce script permet de tester les vulnérabilités de type "Path Traversal" sur un 
 
 - Python 3.x
 - Bibliothèque `requests` (peut être installée avec `pip install requests`)
-- le projet se trouve dans .projet.py
+- le projet se trouve dans ../epsi_b3_infra_2425_anto et Rémi/epsi_b3_infra_2425/tp_anto_remi.py
 
 ## Installation
 
