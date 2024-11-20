@@ -12,6 +12,7 @@ Ce script permet de tester les vulnérabilités de type "Path Traversal" sur un 
 
 - Python 3.x
 - Bibliothèque `requests` (peut être installée avec `pip install requests`)
+- le projet se trouve dans .projet.py
 
 ## Installation
 
